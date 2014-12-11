@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h2>Full Description:</h2>
+        <p>The logo for the HTML5 skin can be changed in the Skin Editor:</p>
+        <ol>
+            <li>In the Project Organizer, open the <b>Skins</b> folder.</li>
+            <li>Double-click the skin file.</li>
+            <li>On the left side of the Skin Editor, click the <b>Styles</b> tab.</li>
+            <li>Expand the <b>Logo</b> style.</li>
+            <li>Expand <b>Background</b>.</li>
+            <li>Click the button in the <b>Background Image</b> field and select an image.</li>
+            <li>Save the skin file.</li>
+        </ol>
+    </body>
+</html>
